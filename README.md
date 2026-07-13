@@ -1,5 +1,5 @@
 # Producer-Consumer Using Semaphores
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OS Course Project — Spring 2026, Project 15.
 
 A multi-threaded producer-consumer simulation in C using POSIX semaphores.
