@@ -1,0 +1,19 @@
+# build artifacts
+*.o
+*.exe
+pc_sem
+pc_dashboard
+benchmark
+
+# editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# logs
+*.log
+trace.log
+
+# benchmark output
+results.csv
